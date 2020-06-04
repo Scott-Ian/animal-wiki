@@ -7,6 +7,18 @@ img {
   height: 600px;
 }
 
-::backdrop {
-  color: aquamarine;
+body {
+  background-color: aquamarine;
+}
+
+.animal1 {
+  display: none;
+}
+
+.animal2 {
+  display: none;
+}
+
+.animal3 {
+  display: none;
 }
